@@ -1,0 +1,513 @@
+	herb_id	herb_name	herb_type	target	Resource
+0	HBIN044342	sophocarpine	Alkaloid	TGFB1	Mixed
+1	HBIN044342	sophocarpine	Alkaloid	ITK	Mixed
+2	HBIN044342	sophocarpine	Alkaloid	GSK3B	Mixed
+3	HBIN044342	sophocarpine	Alkaloid	NFKB1	Mixed
+4	HBIN044342	sophocarpine	Alkaloid	MIR21	Mixed
+5	HBIN044342	sophocarpine	Alkaloid	PTEN	Mixed
+6	HBIN044342	sophocarpine	Alkaloid	CTNNB1	Mixed
+7	HBIN044342	sophocarpine	Alkaloid	MAPK14	Mixed
+8	HBIN044342	sophocarpine	Alkaloid	AKT1	Mixed
+9	HBIN040908	protocatechuic acid	Phenolic acid	PARK7	Mahuang
+10	HBIN040908	protocatechuic acid	Phenolic acid	CASP8	Mahuang
+11	HBIN040908	protocatechuic acid	Phenolic acid	MMP2	Mahuang
+12	HBIN040908	protocatechuic acid	Phenolic acid	IL10	Mahuang
+13	HBIN040908	protocatechuic acid	Phenolic acid	BCL2	Mahuang
+14	HBIN040908	protocatechuic acid	Phenolic acid	CASP9	Mahuang
+15	HBIN040908	protocatechuic acid	Phenolic acid	IL1B	Mahuang
+16	HBIN040908	protocatechuic acid	Phenolic acid	NFKB1	Mahuang
+17	HBIN040908	protocatechuic acid	Phenolic acid	RAS	Mahuang
+18	HBIN040908	protocatechuic acid	Phenolic acid	AKT1	Mahuang
+19	HBIN040908	protocatechuic acid	Phenolic acid	NFE2L2	Mahuang
+20	HBIN040908	protocatechuic acid	Phenolic acid	MTOR	Mahuang
+21	HBIN040908	protocatechuic acid	Phenolic acid	CASP3	Mahuang
+22	HBIN040908	protocatechuic acid	Phenolic acid	BAX	Mahuang
+23	HBIN040908	protocatechuic acid	Phenolic acid	RHOB	Mahuang
+24	HBIN040908	protocatechuic acid	Phenolic acid	PARK7	Jinyinhua
+25	HBIN040908	protocatechuic acid	Phenolic acid	CASP8	Jinyinhua
+26	HBIN040908	protocatechuic acid	Phenolic acid	MMP2	Jinyinhua
+27	HBIN040908	protocatechuic acid	Phenolic acid	IL10	Jinyinhua
+28	HBIN040908	protocatechuic acid	Phenolic acid	BCL2	Jinyinhua
+29	HBIN040908	protocatechuic acid	Phenolic acid	CASP9	Jinyinhua
+30	HBIN040908	protocatechuic acid	Phenolic acid	IL1B	Jinyinhua
+31	HBIN040908	protocatechuic acid	Phenolic acid	NFKB1	Jinyinhua
+32	HBIN040908	protocatechuic acid	Phenolic acid	RAS	Jinyinhua
+33	HBIN040908	protocatechuic acid	Phenolic acid	AKT1	Jinyinhua
+34	HBIN040908	protocatechuic acid	Phenolic acid	NFE2L2	Jinyinhua
+35	HBIN040908	protocatechuic acid	Phenolic acid	MTOR	Jinyinhua
+36	HBIN040908	protocatechuic acid	Phenolic acid	CASP3	Jinyinhua
+37	HBIN040908	protocatechuic acid	Phenolic acid	BAX	Jinyinhua
+38	HBIN040908	protocatechuic acid	Phenolic acid	RHOB	Jinyinhua
+39	HBIN040908	protocatechuic acid	Phenolic acid	PARK7	Lianqiao
+40	HBIN040908	protocatechuic acid	Phenolic acid	CASP8	Lianqiao
+41	HBIN040908	protocatechuic acid	Phenolic acid	MMP2	Lianqiao
+42	HBIN040908	protocatechuic acid	Phenolic acid	IL10	Lianqiao
+43	HBIN040908	protocatechuic acid	Phenolic acid	BCL2	Lianqiao
+44	HBIN040908	protocatechuic acid	Phenolic acid	CASP9	Lianqiao
+45	HBIN040908	protocatechuic acid	Phenolic acid	IL1B	Lianqiao
+46	HBIN040908	protocatechuic acid	Phenolic acid	NFKB1	Lianqiao
+47	HBIN040908	protocatechuic acid	Phenolic acid	RAS	Lianqiao
+48	HBIN040908	protocatechuic acid	Phenolic acid	AKT1	Lianqiao
+49	HBIN040908	protocatechuic acid	Phenolic acid	NFE2L2	Lianqiao
+50	HBIN040908	protocatechuic acid	Phenolic acid	MTOR	Lianqiao
+51	HBIN040908	protocatechuic acid	Phenolic acid	CASP3	Lianqiao
+52	HBIN040908	protocatechuic acid	Phenolic acid	BAX	Lianqiao
+53	HBIN040908	protocatechuic acid	Phenolic acid	RHOB	Lianqiao
+54	HBIN042854	salidroside	Glycoside	FGF2	Huangqin
+55	HBIN042854	salidroside	Glycoside	G6PC	Huangqin
+56	HBIN042854	salidroside	Glycoside	KAT2B	Huangqin
+57	HBIN042854	salidroside	Glycoside	PRKAA2	Huangqin
+58	HBIN042854	salidroside	Glycoside	MYHC	Huangqin
+59	HBIN042854	salidroside	Glycoside	CASP9	Huangqin
+60	HBIN042854	salidroside	Glycoside	MAPT	Huangqin
+61	HBIN042854	salidroside	Glycoside	PRKAB1	Huangqin
+62	HBIN042854	salidroside	Glycoside	TNF	Huangqin
+63	HBIN042854	salidroside	Glycoside	PIK3CB	Huangqin
+64	HBIN042854	salidroside	Glycoside	MAPK1	Huangqin
+65	HBIN042854	salidroside	Glycoside	BCL2	Huangqin
+66	HBIN042854	salidroside	Glycoside	BCL2L1	Huangqin
+67	HBIN042854	salidroside	Glycoside	NFKB1	Huangqin
+68	HBIN042854	salidroside	Glycoside	HMOX1	Huangqin
+69	HBIN042854	salidroside	Glycoside	MET	Huangqin
+70	HBIN042854	salidroside	Glycoside	PARP1	Huangqin
+71	HBIN042854	salidroside	Glycoside	MTOR	Huangqin
+72	HBIN042854	salidroside	Glycoside	BAX	Huangqin
+73	HBIN042854	salidroside	Glycoside	PIK3CA	Huangqin
+74	HBIN042854	salidroside	Glycoside	MAPK3	Huangqin
+75	HBIN042854	salidroside	Glycoside	CYCS	Huangqin
+76	HBIN042854	salidroside	Glycoside	VEGFA	Huangqin
+77	HBIN042854	salidroside	Glycoside	PIK3CG	Huangqin
+78	HBIN042854	salidroside	Glycoside	SIRT1	Huangqin
+79	HBIN042854	salidroside	Glycoside	PIK3CD	Huangqin
+80	HBIN042854	salidroside	Glycoside	PRKAA1	Huangqin
+81	HBIN042854	salidroside	Glycoside	PCK1	Huangqin
+82	HBIN042854	salidroside	Glycoside	ADORA2A	Huangqin
+83	HBIN042854	salidroside	Glycoside	PGAM5	Huangqin
+84	HBIN042854	salidroside	Glycoside	GSK3B	Huangqin
+85	HBIN042854	salidroside	Glycoside	RELA	Huangqin
+86	HBIN042854	salidroside	Glycoside	DDIT3	Huangqin
+87	HBIN042854	salidroside	Glycoside	HGF	Huangqin
+88	HBIN042854	salidroside	Glycoside	HIF1A	Huangqin
+89	HBIN042854	salidroside	Glycoside	AKT1	Huangqin
+90	HBIN042854	salidroside	Glycoside	IL6	Huangqin
+91	HBIN042854	salidroside	Glycoside	FGF2	Lianqiao
+92	HBIN042854	salidroside	Glycoside	G6PC	Lianqiao
+93	HBIN042854	salidroside	Glycoside	KAT2B	Lianqiao
+94	HBIN042854	salidroside	Glycoside	PRKAA2	Lianqiao
+95	HBIN042854	salidroside	Glycoside	MYHC	Lianqiao
+96	HBIN042854	salidroside	Glycoside	CASP9	Lianqiao
+97	HBIN042854	salidroside	Glycoside	MAPT	Lianqiao
+98	HBIN042854	salidroside	Glycoside	PRKAB1	Lianqiao
+99	HBIN042854	salidroside	Glycoside	TNF	Lianqiao
+100	HBIN042854	salidroside	Glycoside	PIK3CB	Lianqiao
+101	HBIN042854	salidroside	Glycoside	MAPK1	Lianqiao
+102	HBIN042854	salidroside	Glycoside	BCL2	Lianqiao
+103	HBIN042854	salidroside	Glycoside	BCL2L1	Lianqiao
+104	HBIN042854	salidroside	Glycoside	NFKB1	Lianqiao
+105	HBIN042854	salidroside	Glycoside	HMOX1	Lianqiao
+106	HBIN042854	salidroside	Glycoside	MET	Lianqiao
+107	HBIN042854	salidroside	Glycoside	PARP1	Lianqiao
+108	HBIN042854	salidroside	Glycoside	MTOR	Lianqiao
+109	HBIN042854	salidroside	Glycoside	BAX	Lianqiao
+110	HBIN042854	salidroside	Glycoside	PIK3CA	Lianqiao
+111	HBIN042854	salidroside	Glycoside	MAPK3	Lianqiao
+112	HBIN042854	salidroside	Glycoside	CYCS	Lianqiao
+113	HBIN042854	salidroside	Glycoside	VEGFA	Lianqiao
+114	HBIN042854	salidroside	Glycoside	PIK3CG	Lianqiao
+115	HBIN042854	salidroside	Glycoside	SIRT1	Lianqiao
+116	HBIN042854	salidroside	Glycoside	PIK3CD	Lianqiao
+117	HBIN042854	salidroside	Glycoside	PRKAA1	Lianqiao
+118	HBIN042854	salidroside	Glycoside	PCK1	Lianqiao
+119	HBIN042854	salidroside	Glycoside	ADORA2A	Lianqiao
+120	HBIN042854	salidroside	Glycoside	PGAM5	Lianqiao
+121	HBIN042854	salidroside	Glycoside	GSK3B	Lianqiao
+122	HBIN042854	salidroside	Glycoside	RELA	Lianqiao
+123	HBIN042854	salidroside	Glycoside	DDIT3	Lianqiao
+124	HBIN042854	salidroside	Glycoside	HGF	Lianqiao
+125	HBIN042854	salidroside	Glycoside	HIF1A	Lianqiao
+126	HBIN042854	salidroside	Glycoside	AKT1	Lianqiao
+127	HBIN042854	salidroside	Glycoside	IL6	Lianqiao
+128	HBIN025796	esculetin	Coumarin	CASP8	Lianqiao
+129	HBIN025796	esculetin	Coumarin	SNCA	Lianqiao
+130	HBIN025796	esculetin	Coumarin	ROS1	Lianqiao
+131	HBIN025796	esculetin	Coumarin	NQO1	Lianqiao
+132	HBIN025796	esculetin	Coumarin	KEAP1	Lianqiao
+133	HBIN025796	esculetin	Coumarin	CASP9	Lianqiao
+134	HBIN025796	esculetin	Coumarin	NFKB1	Lianqiao
+135	HBIN025796	esculetin	Coumarin	RELA	Lianqiao
+136	HBIN025796	esculetin	Coumarin	SLC7A1	Lianqiao
+137	HBIN025796	esculetin	Coumarin	NFE2L2	Lianqiao
+138	HBIN025796	esculetin	Coumarin	DDIT3	Lianqiao
+139	HBIN025796	esculetin	Coumarin	CASP3	Lianqiao
+140	HBIN047738	vanillic acid	Phenolic acid	CEBPA	Mahuang
+141	HBIN047738	vanillic acid	Phenolic acid	PPARG	Mahuang
+142	HBIN047738	vanillic acid	Phenolic acid	CEBPA	Lianqiao
+143	HBIN047738	vanillic acid	Phenolic acid	PPARG	Lianqiao
+144	HBIN043442	scopoletin	Coumarin	PRKAA1	Mahuang
+145	HBIN043442	scopoletin	Coumarin	PRKAA2	Mahuang
+146	HBIN043442	scopoletin	Coumarin	SREBF1	Mahuang
+147	HBIN043442	scopoletin	Coumarin	CYP2E1	Mahuang
+148	HBIN043442	scopoletin	Coumarin	CAT	Mahuang
+149	HBIN043442	scopoletin	Coumarin	PRKAA1	Qinghao
+150	HBIN043442	scopoletin	Coumarin	PRKAA2	Qinghao
+151	HBIN043442	scopoletin	Coumarin	SREBF1	Qinghao
+152	HBIN043442	scopoletin	Coumarin	CYP2E1	Qinghao
+153	HBIN043442	scopoletin	Coumarin	CAT	Qinghao
+154	HBIN048102	vitexin	Flavonoid	SLC12A2	Mahuang
+155	HBIN048102	vitexin	Flavonoid	TJP1	Mahuang
+156	HBIN048102	vitexin	Flavonoid	SLC12A2	Zhimu
+157	HBIN048102	vitexin	Flavonoid	TJP1	Zhimu
+158	HBIN014630	acteoside	Phenylpropanoid	MAP3K14	Huangqin
+159	HBIN014630	acteoside	Phenylpropanoid	NOS2	Huangqin
+160	HBIN014630	acteoside	Phenylpropanoid	MAP3K14	Lianqiao
+161	HBIN014630	acteoside	Phenylpropanoid	NOS2	Lianqiao
+162	HBIN042199	rhein	Anthraquinone	IKBKB	Mahuang
+163	HBIN042199	rhein	Anthraquinone	DNMT3A	Mahuang
+164	HBIN042199	rhein	Anthraquinone	TNF	Mahuang
+165	HBIN042199	rhein	Anthraquinone	CASP1	Mahuang
+166	HBIN042199	rhein	Anthraquinone	BCL2	Mahuang
+167	HBIN042199	rhein	Anthraquinone	KL	Mahuang
+168	HBIN042199	rhein	Anthraquinone	IL6	Mahuang
+169	HBIN042199	rhein	Anthraquinone	IL1B	Mahuang
+170	HBIN042199	rhein	Anthraquinone	EGFR	Mahuang
+171	HBIN042199	rhein	Anthraquinone	PARP1	Mahuang
+172	HBIN042199	rhein	Anthraquinone	STAT3	Mahuang
+173	HBIN042199	rhein	Anthraquinone	DNMT1	Mahuang
+174	HBIN042199	rhein	Anthraquinone	CASP3	Mahuang
+175	HBIN042199	rhein	Anthraquinone	BAX	Mahuang
+176	HBIN042670	rutin	Flavonoid	TFAM	Mahuang
+177	HBIN042670	rutin	Flavonoid	STAT4	Mahuang
+178	HBIN042670	rutin	Flavonoid	TNF	Mahuang
+179	HBIN042670	rutin	Flavonoid	PPARGC1A	Mahuang
+180	HBIN042670	rutin	Flavonoid	MPO	Mahuang
+181	HBIN042670	rutin	Flavonoid	CXCL1	Mahuang
+182	HBIN042670	rutin	Flavonoid	UCP1	Mahuang
+183	HBIN042670	rutin	Flavonoid	IFNG	Mahuang
+184	HBIN042670	rutin	Flavonoid	SIRT1	Mahuang
+185	HBIN042670	rutin	Flavonoid	S100A8	Mahuang
+186	HBIN042670	rutin	Flavonoid	IL1B	Mahuang
+187	HBIN042670	rutin	Flavonoid	TFAM	Jinyinhua
+188	HBIN042670	rutin	Flavonoid	STAT4	Jinyinhua
+189	HBIN042670	rutin	Flavonoid	TNF	Jinyinhua
+190	HBIN042670	rutin	Flavonoid	PPARGC1A	Jinyinhua
+191	HBIN042670	rutin	Flavonoid	MPO	Jinyinhua
+192	HBIN042670	rutin	Flavonoid	CXCL1	Jinyinhua
+193	HBIN042670	rutin	Flavonoid	UCP1	Jinyinhua
+194	HBIN042670	rutin	Flavonoid	IFNG	Jinyinhua
+195	HBIN042670	rutin	Flavonoid	SIRT1	Jinyinhua
+196	HBIN042670	rutin	Flavonoid	S100A8	Jinyinhua
+197	HBIN042670	rutin	Flavonoid	IL1B	Jinyinhua
+198	HBIN042670	rutin	Flavonoid	TFAM	Qinghao
+199	HBIN042670	rutin	Flavonoid	STAT4	Qinghao
+200	HBIN042670	rutin	Flavonoid	TNF	Qinghao
+201	HBIN042670	rutin	Flavonoid	PPARGC1A	Qinghao
+202	HBIN042670	rutin	Flavonoid	MPO	Qinghao
+203	HBIN042670	rutin	Flavonoid	CXCL1	Qinghao
+204	HBIN042670	rutin	Flavonoid	UCP1	Qinghao
+205	HBIN042670	rutin	Flavonoid	IFNG	Qinghao
+206	HBIN042670	rutin	Flavonoid	SIRT1	Qinghao
+207	HBIN042670	rutin	Flavonoid	S100A8	Qinghao
+208	HBIN042670	rutin	Flavonoid	IL1B	Qinghao
+209	HBIN042670	rutin	Flavonoid	TFAM	Huangqin
+210	HBIN042670	rutin	Flavonoid	STAT4	Huangqin
+211	HBIN042670	rutin	Flavonoid	TNF	Huangqin
+212	HBIN042670	rutin	Flavonoid	PPARGC1A	Huangqin
+213	HBIN042670	rutin	Flavonoid	MPO	Huangqin
+214	HBIN042670	rutin	Flavonoid	CXCL1	Huangqin
+215	HBIN042670	rutin	Flavonoid	UCP1	Huangqin
+216	HBIN042670	rutin	Flavonoid	IFNG	Huangqin
+217	HBIN042670	rutin	Flavonoid	SIRT1	Huangqin
+218	HBIN042670	rutin	Flavonoid	S100A8	Huangqin
+219	HBIN042670	rutin	Flavonoid	IL1B	Huangqin
+220	HBIN042670	rutin	Flavonoid	TFAM	Lianqiao
+221	HBIN042670	rutin	Flavonoid	STAT4	Lianqiao
+222	HBIN042670	rutin	Flavonoid	TNF	Lianqiao
+223	HBIN042670	rutin	Flavonoid	PPARGC1A	Lianqiao
+224	HBIN042670	rutin	Flavonoid	MPO	Lianqiao
+225	HBIN042670	rutin	Flavonoid	CXCL1	Lianqiao
+226	HBIN042670	rutin	Flavonoid	UCP1	Lianqiao
+227	HBIN042670	rutin	Flavonoid	IFNG	Lianqiao
+228	HBIN042670	rutin	Flavonoid	SIRT1	Lianqiao
+229	HBIN042670	rutin	Flavonoid	S100A8	Lianqiao
+230	HBIN042670	rutin	Flavonoid	IL1B	Lianqiao
+231	HBIN031102	isoquercitrin	Flavonoid	MRP2	Jinyinhua
+232	HBIN031102	isoquercitrin	Flavonoid	CAR	Jinyinhua
+233	HBIN043533	scutellarin	Flavonoid	MAPK3	Huangqin
+234	HBIN043533	scutellarin	Flavonoid	TGFB1	Huangqin
+235	HBIN043533	scutellarin	Flavonoid	TNF	Huangqin
+236	HBIN043533	scutellarin	Flavonoid	MAPK1	Huangqin
+237	HBIN043533	scutellarin	Flavonoid	RBPJ	Huangqin
+238	HBIN043533	scutellarin	Flavonoid	HES1	Huangqin
+239	HBIN043533	scutellarin	Flavonoid	FN1	Huangqin
+240	HBIN043533	scutellarin	Flavonoid	AGT	Huangqin
+241	HBIN043533	scutellarin	Flavonoid	AHSA1	Huangqin
+242	HBIN043533	scutellarin	Flavonoid	CRK	Huangqin
+243	HBIN043533	scutellarin	Flavonoid	CCL2	Huangqin
+244	HBIN043533	scutellarin	Flavonoid	MAPK14	Huangqin
+245	HBIN043533	scutellarin	Flavonoid	NOTCH1	Huangqin
+246	HBIN042438	rosmarinic acid	Phenolic acid	PRKAA1	Mixed
+247	HBIN042438	rosmarinic acid	Phenolic acid	FGFR1	Mixed
+248	HBIN042438	rosmarinic acid	Phenolic acid	TNF	Mixed
+249	HBIN042438	rosmarinic acid	Phenolic acid	MAPK1	Mixed
+250	HBIN042438	rosmarinic acid	Phenolic acid	PRKAA2	Mixed
+251	HBIN042438	rosmarinic acid	Phenolic acid	GSK3B	Mixed
+252	HBIN042438	rosmarinic acid	Phenolic acid	FYN	Mixed
+253	HBIN042438	rosmarinic acid	Phenolic acid	PPARG	Mixed
+254	HBIN042438	rosmarinic acid	Phenolic acid	HMOX1	Mixed
+255	HBIN042438	rosmarinic acid	Phenolic acid	HMGB1	Mixed
+256	HBIN042438	rosmarinic acid	Phenolic acid	PTGS2	Mixed
+257	HBIN042438	rosmarinic acid	Phenolic acid	SMAD3	Mixed
+258	HBIN042438	rosmarinic acid	Phenolic acid	NFE2L2	Mixed
+259	HBIN042438	rosmarinic acid	Phenolic acid	PINK1	Mixed
+260	HBIN042438	rosmarinic acid	Phenolic acid	MAPK14	Mixed
+261	HBIN042438	rosmarinic acid	Phenolic acid	AKT1	Mixed
+262	HBIN024193	diosmin	Flavonoid	TNF	Mixed
+263	HBIN024193	diosmin	Flavonoid	IL17A	Mixed
+264	HBIN024193	diosmin	Flavonoid	NFKB1	Mixed
+265	HBIN024193	diosmin	Flavonoid	IL2	Mixed
+266	HBIN024193	diosmin	Flavonoid	IL1B	Mixed
+267	HBIN024193	diosmin	Flavonoid	IL6	Mixed
+268	HBIN022577	daidzein	Flavonoid	MAPK1	Mixed
+269	HBIN022577	daidzein	Flavonoid	PRKCD	Mixed
+270	HBIN022577	daidzein	Flavonoid	APOE	Mixed
+271	HBIN022577	daidzein	Flavonoid	SCD	Mixed
+272	HBIN022577	daidzein	Flavonoid	ABCA1	Mixed
+273	HBIN022577	daidzein	Flavonoid	ABCG1	Mixed
+274	HBIN022577	daidzein	Flavonoid	SRC	Mixed
+275	HBIN019425	calycosin	Flavonoid	TGFB1	Mixed
+276	HBIN019425	calycosin	Flavonoid	NFE2L2	Mixed
+277	HBIN019425	calycosin	Flavonoid	PIK3R1	Mixed
+278	HBIN019425	calycosin	Flavonoid	IL1B	Mixed
+279	HBIN019425	calycosin	Flavonoid	GABPA	Mixed
+280	HBIN019425	calycosin	Flavonoid	SERPINE1	Mixed
+281	HBIN019425	calycosin	Flavonoid	SQSTM1	Mixed
+282	HBIN019425	calycosin	Flavonoid	PIK3CB	Mixed
+283	HBIN019425	calycosin	Flavonoid	MAPK1	Mixed
+284	HBIN019425	calycosin	Flavonoid	NQO1	Mixed
+285	HBIN019425	calycosin	Flavonoid	HMOX1	Mixed
+286	HBIN019425	calycosin	Flavonoid	BATF2	Mixed
+287	HBIN019425	calycosin	Flavonoid	IL33	Mixed
+288	HBIN019425	calycosin	Flavonoid	BAX	Mixed
+289	HBIN019425	calycosin	Flavonoid	PIK3CA	Mixed
+290	HBIN019425	calycosin	Flavonoid	MAPK3	Mixed
+291	HBIN019425	calycosin	Flavonoid	IL25	Mixed
+292	HBIN019425	calycosin	Flavonoid	KEAP1	Mixed
+293	HBIN019425	calycosin	Flavonoid	EGFR	Mixed
+294	HBIN019425	calycosin	Flavonoid	STAT3	Mixed
+295	HBIN019425	calycosin	Flavonoid	PIK3CG	Mixed
+296	HBIN019425	calycosin	Flavonoid	GPER1	Mixed
+297	HBIN019425	calycosin	Flavonoid	PIK3CD	Mixed
+298	HBIN019425	calycosin	Flavonoid	PCNA	Mixed
+299	HBIN019425	calycosin	Flavonoid	WDR7	Mixed
+300	HBIN019425	calycosin	Flavonoid	ESR1	Mixed
+301	HBIN019425	calycosin	Flavonoid	CXCL8	Mixed
+302	HBIN019425	calycosin	Flavonoid	AKT1	Mixed
+303	HBIN019425	calycosin	Flavonoid	IL6	Mixed
+304	HBIN019425	calycosin	Flavonoid	SRC	Mixed
+305	HBIN036366	naringenin	Flavonoid	NLRP3	Mahuang
+306	HBIN036366	naringenin	Flavonoid	ICMT	Mahuang
+307	HBIN036366	naringenin	Flavonoid	PPARA	Mahuang
+308	HBIN036366	naringenin	Flavonoid	NFKB1	Mahuang
+309	HBIN036366	naringenin	Flavonoid	IL2	Mahuang
+310	HBIN036366	naringenin	Flavonoid	MAP2K7	Mahuang
+311	HBIN036366	naringenin	Flavonoid	NFE2L2	Mahuang
+312	HBIN036366	naringenin	Flavonoid	IFNG	Mahuang
+313	HBIN036366	naringenin	Flavonoid	MTOR	Mahuang
+314	HBIN036366	naringenin	Flavonoid	TGM2	Mahuang
+315	HBIN036366	naringenin	Flavonoid	PKD2	Mahuang
+316	HBIN036366	naringenin	Flavonoid	AKT1	Mahuang
+317	HBIN030896	isoliquiritigenin	Chalcone	FGF2	Gancao
+318	HBIN030896	isoliquiritigenin	Chalcone	NLRP3	Gancao
+319	HBIN030896	isoliquiritigenin	Chalcone	TGFB1	Gancao
+320	HBIN030896	isoliquiritigenin	Chalcone	MMP2	Gancao
+321	HBIN030896	isoliquiritigenin	Chalcone	LRIG1	Gancao
+322	HBIN030896	isoliquiritigenin	Chalcone	CTTN	Gancao
+323	HBIN030896	isoliquiritigenin	Chalcone	NFKB1	Gancao
+324	HBIN030896	isoliquiritigenin	Chalcone	PTK2	Gancao
+325	HBIN030896	isoliquiritigenin	Chalcone	SYT1	Gancao
+326	HBIN030896	isoliquiritigenin	Chalcone	MMP9	Gancao
+327	HBIN030896	isoliquiritigenin	Chalcone	IL1B	Gancao
+328	HBIN030896	isoliquiritigenin	Chalcone	VEGFA	Gancao
+329	HBIN030896	isoliquiritigenin	Chalcone	NFE2L2	Gancao
+330	HBIN030896	isoliquiritigenin	Chalcone	MIR301B	Gancao
+331	HBIN030896	isoliquiritigenin	Chalcone	AKT1	Gancao
+332	HBIN030896	isoliquiritigenin	Chalcone	SRC	Gancao
+333	HBIN017508	baicalein	Flavonoid	MAPK3	Huangqin
+334	HBIN017508	baicalein	Flavonoid	TNF	Huangqin
+335	HBIN017508	baicalein	Flavonoid	CAPN2	Huangqin
+336	HBIN017508	baicalein	Flavonoid	MAPK1	Huangqin
+337	HBIN017508	baicalein	Flavonoid	PRKAA2	Huangqin
+338	HBIN017508	baicalein	Flavonoid	TJP1	Huangqin
+339	HBIN017508	baicalein	Flavonoid	VIM	Huangqin
+340	HBIN017508	baicalein	Flavonoid	FN1	Huangqin
+341	HBIN017508	baicalein	Flavonoid	IL1B	Huangqin
+342	HBIN017508	baicalein	Flavonoid	SNAI1	Huangqin
+343	HBIN017508	baicalein	Flavonoid	HMOX1	Huangqin
+344	HBIN017508	baicalein	Flavonoid	NFKB1	Huangqin
+345	HBIN017508	baicalein	Flavonoid	RUNX3	Huangqin
+346	HBIN017508	baicalein	Flavonoid	MAP2K7	Huangqin
+347	HBIN017508	baicalein	Flavonoid	NFE2L2	Huangqin
+348	HBIN017508	baicalein	Flavonoid	FOXO3	Huangqin
+349	HBIN017508	baicalein	Flavonoid	CDH1	Huangqin
+350	HBIN048372	wogonin	Flavonoid	MMP13	Huangqin
+351	HBIN048372	wogonin	Flavonoid	IKBKB	Huangqin
+352	HBIN048372	wogonin	Flavonoid	MDM2	Huangqin
+353	HBIN048372	wogonin	Flavonoid	CASP9	Huangqin
+354	HBIN048372	wogonin	Flavonoid	MMP9	Huangqin
+355	HBIN048372	wogonin	Flavonoid	RB1	Huangqin
+356	HBIN048372	wogonin	Flavonoid	COL2A1	Huangqin
+357	HBIN048372	wogonin	Flavonoid	NFE2L2	Huangqin
+358	HBIN048372	wogonin	Flavonoid	IL1B	Huangqin
+359	HBIN048372	wogonin	Flavonoid	ADAMTS4	Huangqin
+360	HBIN048372	wogonin	Flavonoid	TNF	Huangqin
+361	HBIN048372	wogonin	Flavonoid	BCL2	Huangqin
+362	HBIN048372	wogonin	Flavonoid	NFKB1	Huangqin
+363	HBIN048372	wogonin	Flavonoid	PTGS2	Huangqin
+364	HBIN048372	wogonin	Flavonoid	MMP3	Huangqin
+365	HBIN048372	wogonin	Flavonoid	PARP1	Huangqin
+366	HBIN048372	wogonin	Flavonoid	BAX	Huangqin
+367	HBIN048372	wogonin	Flavonoid	MCL1	Huangqin
+368	HBIN048372	wogonin	Flavonoid	SLC2A1	Huangqin
+369	HBIN048372	wogonin	Flavonoid	TRP53	Huangqin
+370	HBIN048372	wogonin	Flavonoid	KEAP1	Huangqin
+371	HBIN048372	wogonin	Flavonoid	TNFRSF1B	Huangqin
+372	HBIN048372	wogonin	Flavonoid	CASP3	Huangqin
+373	HBIN048372	wogonin	Flavonoid	TP53	Huangqin
+374	HBIN048372	wogonin	Flavonoid	NOS2	Huangqin
+375	HBIN048372	wogonin	Flavonoid	CHUK	Huangqin
+376	HBIN048372	wogonin	Flavonoid	PPARA	Huangqin
+377	HBIN048372	wogonin	Flavonoid	TIGAR	Huangqin
+378	HBIN048372	wogonin	Flavonoid	ADIPOQ	Huangqin
+379	HBIN048372	wogonin	Flavonoid	IL6	Huangqin
+380	HBIN048372	wogonin	Flavonoid	MMP13	Lianqiao
+381	HBIN048372	wogonin	Flavonoid	IKBKB	Lianqiao
+382	HBIN048372	wogonin	Flavonoid	MDM2	Lianqiao
+383	HBIN048372	wogonin	Flavonoid	CASP9	Lianqiao
+384	HBIN048372	wogonin	Flavonoid	MMP9	Lianqiao
+385	HBIN048372	wogonin	Flavonoid	RB1	Lianqiao
+386	HBIN048372	wogonin	Flavonoid	COL2A1	Lianqiao
+387	HBIN048372	wogonin	Flavonoid	NFE2L2	Lianqiao
+388	HBIN048372	wogonin	Flavonoid	IL1B	Lianqiao
+389	HBIN048372	wogonin	Flavonoid	ADAMTS4	Lianqiao
+390	HBIN048372	wogonin	Flavonoid	TNF	Lianqiao
+391	HBIN048372	wogonin	Flavonoid	BCL2	Lianqiao
+392	HBIN048372	wogonin	Flavonoid	NFKB1	Lianqiao
+393	HBIN048372	wogonin	Flavonoid	PTGS2	Lianqiao
+394	HBIN048372	wogonin	Flavonoid	MMP3	Lianqiao
+395	HBIN048372	wogonin	Flavonoid	PARP1	Lianqiao
+396	HBIN048372	wogonin	Flavonoid	BAX	Lianqiao
+397	HBIN048372	wogonin	Flavonoid	MCL1	Lianqiao
+398	HBIN048372	wogonin	Flavonoid	SLC2A1	Lianqiao
+399	HBIN048372	wogonin	Flavonoid	TRP53	Lianqiao
+400	HBIN048372	wogonin	Flavonoid	KEAP1	Lianqiao
+401	HBIN048372	wogonin	Flavonoid	TNFRSF1B	Lianqiao
+402	HBIN048372	wogonin	Flavonoid	CASP3	Lianqiao
+403	HBIN048372	wogonin	Flavonoid	TP53	Lianqiao
+404	HBIN048372	wogonin	Flavonoid	NOS2	Lianqiao
+405	HBIN048372	wogonin	Flavonoid	CHUK	Lianqiao
+406	HBIN048372	wogonin	Flavonoid	PPARA	Lianqiao
+407	HBIN048372	wogonin	Flavonoid	TIGAR	Lianqiao
+408	HBIN048372	wogonin	Flavonoid	ADIPOQ	Lianqiao
+409	HBIN048372	wogonin	Flavonoid	IL6	Lianqiao
+410	HBIN020447	chrysin	Flavonoid	VDAC1	Jinyinhua
+411	HBIN020447	chrysin	Flavonoid	TNF	Jinyinhua
+412	HBIN020447	chrysin	Flavonoid	MAPK1	Jinyinhua
+413	HBIN020447	chrysin	Flavonoid	IL6	Jinyinhua
+414	HBIN020447	chrysin	Flavonoid	IL17A	Jinyinhua
+415	HBIN020447	chrysin	Flavonoid	NFKB1	Jinyinhua
+416	HBIN020447	chrysin	Flavonoid	HK2	Jinyinhua
+417	HBIN020447	chrysin	Flavonoid	GCLM	Jinyinhua
+418	HBIN020447	chrysin	Flavonoid	HMOX1	Jinyinhua
+419	HBIN020447	chrysin	Flavonoid	TRAF6	Jinyinhua
+420	HBIN020447	chrysin	Flavonoid	TNFAIP3	Jinyinhua
+421	HBIN020447	chrysin	Flavonoid	IFNG	Jinyinhua
+422	HBIN020447	chrysin	Flavonoid	GCLC	Jinyinhua
+423	HBIN020447	chrysin	Flavonoid	NFE2L2	Jinyinhua
+424	HBIN020447	chrysin	Flavonoid	AHR	Jinyinhua
+425	HBIN020447	chrysin	Flavonoid	IL1B	Jinyinhua
+426	HBIN020447	chrysin	Flavonoid	BAX	Jinyinhua
+427	HBIN020447	chrysin	Flavonoid	VDAC1	Huangqin
+428	HBIN020447	chrysin	Flavonoid	TNF	Huangqin
+429	HBIN020447	chrysin	Flavonoid	MAPK1	Huangqin
+430	HBIN020447	chrysin	Flavonoid	IL6	Huangqin
+431	HBIN020447	chrysin	Flavonoid	IL17A	Huangqin
+432	HBIN020447	chrysin	Flavonoid	NFKB1	Huangqin
+433	HBIN020447	chrysin	Flavonoid	HK2	Huangqin
+434	HBIN020447	chrysin	Flavonoid	GCLM	Huangqin
+435	HBIN020447	chrysin	Flavonoid	HMOX1	Huangqin
+436	HBIN020447	chrysin	Flavonoid	TRAF6	Huangqin
+437	HBIN020447	chrysin	Flavonoid	TNFAIP3	Huangqin
+438	HBIN020447	chrysin	Flavonoid	IFNG	Huangqin
+439	HBIN020447	chrysin	Flavonoid	GCLC	Huangqin
+440	HBIN020447	chrysin	Flavonoid	NFE2L2	Huangqin
+441	HBIN020447	chrysin	Flavonoid	AHR	Huangqin
+442	HBIN020447	chrysin	Flavonoid	IL1B	Huangqin
+443	HBIN020447	chrysin	Flavonoid	BAX	Huangqin
+444	HBIN039031	pectolinarigenin	Flavonoid	MCL1	Jinyinhua
+445	HBIN039031	pectolinarigenin	Flavonoid	PTPN6	Jinyinhua
+446	HBIN039031	pectolinarigenin	Flavonoid	BCL2	Jinyinhua
+447	HBIN039031	pectolinarigenin	Flavonoid	BCL2L1	Jinyinhua
+448	HBIN039031	pectolinarigenin	Flavonoid	STAT3	Jinyinhua
+449	HBIN039031	pectolinarigenin	Flavonoid	CCND1	Jinyinhua
+450	HBIN025041	emodin	Anthraquinone	RUNX2	Mixed
+451	HBIN025041	emodin	Anthraquinone	TWIST1	Mixed
+452	HBIN025041	emodin	Anthraquinone	ROS1	Mixed
+453	HBIN025041	emodin	Anthraquinone	FOS	Mixed
+454	HBIN025041	emodin	Anthraquinone	JAK2	Mixed
+455	HBIN025041	emodin	Anthraquinone	JAK1	Mixed
+456	HBIN025041	emodin	Anthraquinone	CTNNB1	Mixed
+457	HBIN025041	emodin	Anthraquinone	CCL27	Mixed
+458	HBIN025041	emodin	Anthraquinone	NFKB1	Mixed
+459	HBIN025041	emodin	Anthraquinone	PRKCD	Mixed
+460	HBIN025041	emodin	Anthraquinone	EDN1	Mixed
+461	HBIN025041	emodin	Anthraquinone	SLPI	Mixed
+462	HBIN025041	emodin	Anthraquinone	ALPP	Mixed
+463	HBIN025041	emodin	Anthraquinone	MTA3	Mixed
+464	HBIN025041	emodin	Anthraquinone	STAT3	Mixed
+465	HBIN025041	emodin	Anthraquinone	ATRNL1	Mixed
+466	HBIN025041	emodin	Anthraquinone	ALPL	Mixed
+467	HBIN025041	emodin	Anthraquinone	CASP3	Mixed
+468	HBIN025041	emodin	Anthraquinone	PPP1R14A	Mixed
+469	HBIN025041	emodin	Anthraquinone	CDH1	Mixed
+470	HBIN025041	emodin	Anthraquinone	ATHS	Mixed
+471	HBIN025041	emodin	Anthraquinone	PDLIM3	Mixed
+472	HBIN025041	emodin	Anthraquinone	BGLAP	Mixed
+473	HBIN025041	emodin	Anthraquinone	NFATC1	Mixed
+474	HBIN025041	emodin	Anthraquinone	VIM	Mixed
+475	HBIN025041	emodin	Anthraquinone	NAT10	Mixed
+476	HBIN025041	emodin	Anthraquinone	TNFSF11	Mixed
+477	HBIN025041	emodin	Anthraquinone	ASRGL1	Mixed
+478	HBIN025041	emodin	Anthraquinone	AKT1	Mixed
+479	HBIN025041	emodin	Anthraquinone	SRC	Mixed
+480	HBIN021795	cryptotanshinone	Phenanthra quinone	OLR1	Danshen
+481	HBIN021795	cryptotanshinone	Phenanthra quinone	TGFB1	Danshen
+482	HBIN021795	cryptotanshinone	Phenanthra quinone	IKBKB	Danshen
+483	HBIN021795	cryptotanshinone	Phenanthra quinone	CASP9	Danshen
+484	HBIN021795	cryptotanshinone	Phenanthra quinone	PTPN11	Danshen
+485	HBIN021795	cryptotanshinone	Phenanthra quinone	MMP9	Danshen
+486	HBIN021795	cryptotanshinone	Phenanthra quinone	AKT2	Danshen
+487	HBIN021795	cryptotanshinone	Phenanthra quinone	CYP17A1	Danshen
+488	HBIN021795	cryptotanshinone	Phenanthra quinone	GLIS3	Danshen
+489	HBIN021795	cryptotanshinone	Phenanthra quinone	DNM1L	Danshen
+490	HBIN021795	cryptotanshinone	Phenanthra quinone	PAX5	Danshen
+491	HBIN021795	cryptotanshinone	Phenanthra quinone	NFKB1	Danshen
+492	HBIN021795	cryptotanshinone	Phenanthra quinone	PTGS2	Danshen
+493	HBIN021795	cryptotanshinone	Phenanthra quinone	BAX	Danshen
+494	HBIN021795	cryptotanshinone	Phenanthra quinone	AR	Danshen
+495	HBIN021795	cryptotanshinone	Phenanthra quinone	SMAD2	Danshen
+496	HBIN021795	cryptotanshinone	Phenanthra quinone	STAT3	Danshen
+497	HBIN021795	cryptotanshinone	Phenanthra quinone	NOX4	Danshen
+498	HBIN021795	cryptotanshinone	Phenanthra quinone	CASP3	Danshen
+499	HBIN021795	cryptotanshinone	Phenanthra quinone	CASP7	Danshen
+500	HBIN021795	cryptotanshinone	Phenanthra quinone	NOS2	Danshen
+501	HBIN021795	cryptotanshinone	Phenanthra quinone	S100B	Danshen
+502	HBIN021795	cryptotanshinone	Phenanthra quinone	RELA	Danshen
+503	HBIN021795	cryptotanshinone	Phenanthra quinone	GFAP	Danshen
+504	HBIN024164	diosgenin	Steroid	MAPK3	Mixed
+505	HBIN024164	diosgenin	Steroid	MAPK1	Mixed
+506	HBIN024164	diosgenin	Steroid	RPL17-C18ORF32	Mixed
+507	HBIN024164	diosgenin	Steroid	TNFRSF10B	Mixed
+508	HBIN024164	diosgenin	Steroid	MAPK14	Mixed
+509	HBIN024164	diosgenin	Steroid	PTGS2	Mixed
+510	HBIN024164	diosgenin	Steroid	PDCD1	Mixed
+511	HBIN024164	diosgenin	Steroid	RPL17	Mixed
