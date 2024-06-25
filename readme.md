@@ -2,7 +2,7 @@
 
 This repository contains the scripts to reproduce the result of the manuscript [***Network-based systems pharmacology combined UHPLC-Q-extractive-Orbitrap-MS reveals the mechanism of \*Jinhua Qinggan\* Granule Reducing cellular inflammation in COVID-19***]( )
 
-Compound-Target network: [*https://starlitnightly.github.io/Analysis_JHQG_COVID/result/herb_network_all.html*](https://starlitnightly.github.io/Analysis_sisheng/index.html)
+Compound-Target network: https://starlitnightly.github.io/Analysis_JHQG_COVID/
 
 ## Abstract
 
